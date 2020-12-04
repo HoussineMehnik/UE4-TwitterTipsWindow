@@ -1,2 +1,2 @@
 # Twitter Tips Window
-UE4 Editor Tips Tab showing tweets with #ue4tips hashtag
+Simple UE4 Editor Tab (With a web browser) showing tweets with #ue4tips hashtag
