@@ -1,9 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\Projects\\UE4TipsProject\\Source\\UE4TipsProject\\UE4TipsProject.Build.cs",
-		"C:\\Projects\\UE4TipsProject\\Plugins\\UE4TipsWindow\\Source\\UE4TipsWindow\\UE4TipsWindow.Build.cs",
-		"C:\\Projects\\UE4TipsProject\\Source\\UE4TipsProject.Target.cs",
-		"C:\\Projects\\UE4TipsProject\\Source\\UE4TipsProjectEditor.Target.cs"
-	],
-	"EngineVersion": "4.24.1"
-}
